@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Jonathan Oishi</h1>
 <p align="center">
-  <strong>Desenvolvedor Mobile especializado em Flutter & Dart</strong><br>
+  <strong>Desenvolvedor Mobile em Flutter & Dart</strong><br>
   Focado na criação de aplicações modernas, performáticas, escaláveis e multiplataforma.
 </p>
 
@@ -23,7 +23,7 @@ Sou especialista em desenvolvimento mobile com foco no ecossistema **Flutter & D
 * 📚 **Especialização:** Pós-graduação em Desenvolvimento Mobile Android e Multiplataforma
 * 🏗️ **Foco:** Clean Architecture, SOLID, MVVM e projetos altamente escaláveis
 * 🎨 **Diferencial:** Atenção aos detalhes de UI/UX, responsividade e performance
-* 🎯 **Objetivo atual:** Consolidar-me como especialista Flutter e contribuir em projetos de alto impacto
+* 🎯 **Objetivo atual:** Consolidar-me como Desenvolvedor Flutter e contribuir em projetos de alto impacto
 
 ---
 
