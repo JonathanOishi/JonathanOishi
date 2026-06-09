@@ -68,25 +68,59 @@ Arquitetura Mobile • APIs REST • Integrações Front-end & Back-end
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Flutter_Web-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 </p>
 
 ---
 
-<h3 align="center">🔥 Backend & Arquitetura</h3>
+<h3 align="center">🏗️ Arquitetura & Padrões</h3>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/MVVM-1E88E5?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Clean_Architecture-20232A?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Repository_Pattern-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SOLID-43A047?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Provider-9C27B0?style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">🔥 Backend & Banco de Dados</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Realtime_Database-FFCA28?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+</p>
+
+---
+
+<h3 align="center">🌐 APIs & Networking</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Dio-2196F3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HTTP-607D8B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
 
 </p>
 
@@ -105,6 +139,22 @@ Arquitetura Mobile • APIs REST • Integrações Front-end & Back-end
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</p>
+
+---
+
+<h3 align="center">🚀 Metodologias</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kanban-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Design_Thinking-8E24AA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Design_Sprint-00ACC1?style=for-the-badge"/>
 
 </p>
 
